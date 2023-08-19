@@ -10,6 +10,6 @@
 
 - Картинку
 
-Также сохраняет собранную информацию в JSON файл
+Также сохраняет собранную информацию в JSON файл.
 
 ![Image alt](https://github.com/Pravdin763/parsing_kolesatyt/blob/main/шины.png)
